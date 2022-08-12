@@ -1,0 +1,12 @@
+Dirigida por
+	Santiago, L. D.
+Escrita por
+	Santiago, L. D.
+Productor Ejecutivo
+	Santiago, L. D.
+Programación
+	Santiago, L. D.
+Motor
+	Python 3.8.2
+Dedicada a
+	Los pinches Romero boys

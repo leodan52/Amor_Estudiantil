@@ -1,0 +1,31 @@
+
+
+Amor estudiantil es una historia prototipo para
+crear mi primer historia interactiva programada en
+Python.
+
+Para jugar, procura entrar en la ruta Amor_estudiantil/
+y ejecutar main.py con python3, de preferencia.
+
+No borres ni modifiques ningún archivo.
+
+Estructura del proyecto:
+
+main.py es la columna vertebral del proyecto, donde
+se estructuran las distintas rutas dependiendo de tu
+elección.
+
+En TXT/ están escritos los segmento de cada ruta disponible.
+Obviamente, las rutas comparte algunos segmentos de historia,
+ya que se desarrollan como las ramas de un árbol. Algunos archivos
+*.txt están cifrados para evitar trampas (No es difícil
+descifrarlos, pero no es tan directo.)
+
+En TOOLS/ hay herramientas particulares y generales que ayudan al
+procesamiento del texto, y en inflexiones/ herramientas que ayudan
+al procesamiento de las distintas rutas.
+
+
+Hay cuatro rutas disponibles. Espero que la primer ruta que
+descubras sea la que tu corazón te haya dictado. Luego de eso podrás
+buscar las otras tres experimentando con otras elecciones.
