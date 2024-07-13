@@ -1,0 +1,9 @@
+# Python cache files
+
+__pycache__/
+
+# User files
+
+LOGROS.txt
+TXT/control.txt
+TXT/historial_nombres.txt
